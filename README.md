@@ -1,2 +1,2 @@
-This is a Collaborative Project.
+This is a Student A Project.
 
